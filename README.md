@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/nasr_ladib"><img src="https://api.daily.dev/devcards/2f1135d6d0204981926ab34ca122fc6d.png?r=gmw" width="400" alt="Nasr Ladib's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Nasr-Ladib/Nasr-Ladib/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 <!--
 **Nasr-Ladib/Nasr-Ladib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
