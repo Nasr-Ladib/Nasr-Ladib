@@ -1,17 +1,11 @@
-### Hi there 👋
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Nasr-Ladib/Nasr-Ladib/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
-<!--
-**Nasr-Ladib/Nasr-Ladib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Nasr Ladib 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at **[Auchan Retail International](https://www.auchan-retail.com/en/)**, France
+- 🌱 I’m a DevOps and Cloud engineer, with experience in AWS, Azure, and GCP (though my GCP experience is minimal)
+- 💬 Ask me about DevOps, cloud technologies or any related subject.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ladib-nasr/)
+- ⚡ Fun fact: When I'm not engineering, you can find me exploring new technologies or delving into an interesting book.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HitCount](http://hits.dwyl.com/ladibnasr/ladibnasr.svg)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nasr-Ladib&show_icons=true" alt="GitHub Stats" height="160" />
