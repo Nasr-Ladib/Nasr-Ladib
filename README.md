@@ -5,7 +5,7 @@ I specialize in DevSecOps and cloud technologies, with a focus on AWS, Azure, an
 
 🌍 From Tunisian origin, but currently living in Lille, France  
 📝 Occasionally write tech articles  
-🏃‍♂️ A sports enthusiast who always strives to be a better person
+🏃‍♂️ A sports enthusiast
 
 [![Linkedin: ladibnasr](https://img.shields.io/badge/-Nasr%20Ladib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ladib-nasr/)](https://www.linkedin.com/in/ladib-nasr/)
 
