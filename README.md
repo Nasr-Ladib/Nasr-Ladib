@@ -3,6 +3,9 @@
 
 I specialize in DevSecOps and cloud technologies, with a focus on AWS, Azure, and GCP. When I'm not engineering, you can find me exploring new technologies or delving into an interesting book. You can also read my articles on [Medium](https://medium.com/@ladibnasr)📝.
 
+🌍 From Tunisian origin, but currently living in Lille, France  
+📝 Occasionally write tech articles  
+🏃‍♂️ A sports enthusiast who always strives to be a better person
 
 [![Linkedin: ladibnasr](https://img.shields.io/badge/-Nasr%20Ladib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ladib-nasr/)](https://www.linkedin.com/in/ladib-nasr/)
 
