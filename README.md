@@ -32,8 +32,74 @@ I specialize in DevSecOps and cloud technologies, with a focus on AWS, Azure, an
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
   </a> 
   <a href="https://www.vaultproject.io" target="_blank"> 
-    <path d="M30.11 40.8 62 102.86 94.11 40.8ZM57 65.44h-5v-5.08h5Zm0-7.62h-5v-5.08h5Zm7.62 15.24h-5.05V68h5.08Zm0-7.62h-5.05v-5.08h5.08Zm0-7.62h-5.05v-5.08h5.08Zm7.58 7.62h-5.05v-5.08h5.08Zm-5.08-7.62v-5.08h5.08v5.08Z" style="fill:#ffd814"></path>
+       <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
   </a> 
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/> 
+  </a> 
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/ciliumio/ciliumio-icon.svg" alt="cilium" width="40" height="40"/> 
+  </a> 
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/falco/falco-icon.svg" alt="Falco" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="GoLang" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> 
+  </a>
+    <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="gRPC" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/haproxy/haproxy-ar21.svg" alt="HAPROXY" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="HELM" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/konghq/konghq-icon.svg" alt="KongHQ" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/openpolicyagent/openpolicyagent-icon.svg" alt="Open Policy Agent" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="Packer" width="40" height="40"/> 
+  </a>
+    <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgreSQL" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt=" Prometheus" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank"> 
+       <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="Hashicorp Vault" width="40" height="40"/> 
+  </a>
 </p>
 
 ## 📊 Github stats
