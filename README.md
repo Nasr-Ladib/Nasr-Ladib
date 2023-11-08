@@ -19,7 +19,22 @@ I specialize in DevSecOps and cloud technologies, with a focus on AWS, Azure, an
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> </p>
+<a href="https://www.docker.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</a> 
+  <a href="https://kubernetes.io" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.terraform.io/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.vaultproject.io" target="_blank"> 
+    <path d="M30.11 40.8 62 102.86 94.11 40.8ZM57 65.44h-5v-5.08h5Zm0-7.62h-5v-5.08h5Zm7.62 15.24h-5.05V68h5.08Zm0-7.62h-5.05v-5.08h5.08Zm0-7.62h-5.05v-5.08h5.08Zm7.58 7.62h-5.05v-5.08h5.08Zm-5.08-7.62v-5.08h5.08v5.08Z" style="fill:#ffd814"></path>
+  </a> 
+</p>
 
 ## 📊 Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=Nasr-Ladib&show_icons=true&bg_color=ffea00&title_color=000000&text_color=000000&icon_color=ff0000&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
