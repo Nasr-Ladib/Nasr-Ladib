@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nasr Ladib</h1>
+  <h1 align="center">Hi 👋, I'm Nasr Ladib</h1>
 <h3 align="center">DevSecOps, Cloud (AWS, Azure, GCP) Engineer at [Auchan Retail International]</h3>
 
 I specialize in DevSecOps and cloud technologies, with a focus on AWS, Azure, and GCP. When I'm not engineering, you can find me exploring new technologies or delving into an interesting book. You can also read my articles on [Medium](https://medium.com/@ladibnasr)📝.
@@ -31,9 +31,6 @@ I specialize in DevSecOps and cloud technologies, with a focus on AWS, Azure, an
   <a href="https://www.terraform.io/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
   </a> 
-  <a href="https://www.vaultproject.io" target="_blank"> 
-       <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
-  </a> 
   <a href="" target="_blank"> 
        <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/> 
   </a> 
@@ -59,10 +56,10 @@ I specialize in DevSecOps and cloud technologies, with a focus on AWS, Azure, an
        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> 
   </a>
     <a href="" target="_blank"> 
-       <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="gRPC" width="40" height="40"/> 
+       <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="gRPC" width="50" height="40"/> 
   </a>
   <a href="" target="_blank"> 
-       <img src="https://www.vectorlogo.zone/logos/haproxy/haproxy-ar21.svg" alt="HAPROXY" width="40" height="40"/> 
+       <img src="https://www.vectorlogo.zone/logos/haproxy/haproxy-ar21.svg" alt="HAPROXY" width="50" height="40"/> 
   </a>
   <a href="" target="_blank"> 
        <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="HELM" width="40" height="40"/> 
@@ -83,7 +80,8 @@ I specialize in DevSecOps and cloud technologies, with a focus on AWS, Azure, an
        <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="Packer" width="40" height="40"/> 
   </a>
     <a href="" target="_blank"> 
-       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgreSQL" width="40" height="40"/> 
+       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgreSQL" width="50" height="40"/> 
+      
   </a>
   <a href="" target="_blank"> 
        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt=" Prometheus" width="40" height="40"/> 
