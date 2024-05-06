@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm Nasr Ladib</h1>
 <h3 align="center">DevSecOps, Cloud (AWS, Azure, GCP) Engineer at [Auchan Retail International]</h3>
 
-I specialize in DevSecOps and cloud technologies, with a focus on AWS, Azure, and GCP. When I'm not engineering, you can find me exploring new technologies or delving into an interesting book. You can also read my articles on [Medium](https://medium.com/@ladibnasr)📝.
+I specialize in DevSecOps and cloud technologies, with a focus on AWS, Azure, and GCP. When I'm not engineering, you can find me exploring new technologies or delving into an interesting book. You can also read my articles on [Medium](https://medium.nasrladib.com/@ladibnasr)📝.
 
 🌍 From Tunisian origin, but currently living in Lille, France  
 📝 Occasionally write tech articles  
