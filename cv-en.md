@@ -295,3 +295,6 @@ Tunisia
 ## PUBLICATIONS & OPEN SOURCE
 * [Enforcing Secure and Cost-Effective Infrastructure as Code with Terraform, OPA, and Infracost](https://medium.nasrladib.com/enforcing-secure-and-cost-effective-infrastructure-as-code-with-terraform-opa-and-infracost-22b4b4c880c2)
 * [Kubernetes Operator - k8s-secret-expiry-controller](https://github.com/devops-360-online/k8s-secret-expiry-controller) - Created a custom Kubernetes operator to manage secret expiration
+
+
+CONVERT TO PDF: https://apitemplate.io/pdf-tools/convert-markdown-to-pdf/
