@@ -2,8 +2,8 @@
 ## Cloud DevOps Engineer | Kubernetes | GitOps | AWS • GCP • Azure | IaC | MLOPS | SRE
 
 6 years of experience
-📞 +33 6 14 85 89 54  
-✉ ladibnasr@gmail.com  
+📞 +xxxxxxx
+✉ xxxxxxx
 📍 Lille, France  
 🔗 [LinkedIn](https://www.linkedin.com/in/nasr-ladib)  
 📝 [Medium](https://medium.nasrladib.com) 
