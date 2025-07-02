@@ -51,6 +51,7 @@ Passionate Site Reliability Engineer and DevSecOps specialist with 6 years of ex
 #### Data & Storage
 **Databases:** PostgreSQL, Redis, RDS, MongoDB
 **Messaging:** Kafka, RabbitMQ  
+**DATA Platform:** Snowflake
 
 #### Web Servers & Proxy
 **Web Servers:** Nginx, Apache, Haproxy, Traefik  
@@ -89,10 +90,11 @@ Roubaix, France
 **STAR Project:** Centralized Data Platform with AI and Data Science capabilities for 3000+ employees
 * Led technical workshops to design a compliant, reusable data platform with decoupled architecture across business units
 * Refactored code to Python and implemented application observability components
-* Collaborated with Data Architects on Snowflake implementation
+* Partnered with Data & Security Architects to deliver a production Snowflake lakehouse on AWS: built a dedicated landing-zone account, set up PrivateLink networking, and enforced KMS encryption on all S3 stages.
+* Built modular data-ingestion & integration pipelines (Glue / Snowpipe / Data Factory) feeding Snowflake.
 * Developed Terraform code for infrastructure components
-* Managed compliance with AWS Landing Zone, Control Tower, AWS Config, AWS Inspector, and EventBridge
-* Implemented event-driven architecture using Lambda functions for corporate account notifications
+* Managed compliance with AWS Landing Zone, Control Tower, AWS Config, AWS Inspector
+* Implemented event-driven architecture using Lambda functions, AWS Batch for corporate account notifications
 * Built CI/CD pipelines for Python component builds and deployments, adding OpenTelemetry as standard for observability applications
 * Worked on the project "CEOS AI" as part of STAR implementing Airflow, MLflow, and LLM on EKS for multi-tenancy
 </div>
@@ -295,6 +297,7 @@ Tunisia
 ## PUBLICATIONS & OPEN SOURCE
 * [Enforcing Secure and Cost-Effective Infrastructure as Code with Terraform, OPA, and Infracost](https://medium.nasrladib.com/enforcing-secure-and-cost-effective-infrastructure-as-code-with-terraform-opa-and-infracost-22b4b4c880c2)
 * [Kubernetes Operator - k8s-secret-expiry-controller](https://github.com/devops-360-online/k8s-secret-expiry-controller) - Created a custom Kubernetes operator to manage secret expiration
+* [TALQ AI VOICE](https://dev.talq.xyz)
 
 
 CONVERT TO PDF: https://apitemplate.io/pdf-tools/convert-markdown-to-pdf/
